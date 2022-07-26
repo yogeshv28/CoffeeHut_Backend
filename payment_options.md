@@ -1,5 +1,7 @@
 # Payment Options
 
+## discount for the new Coffehut_Wallet payment option and the new “loyal” user profile included in the backend.
+
 #### ✨We have a great loyal points to our loyal users so with that loyal points they can enjoy great discounts using Coffehut_Wallet✨
 
 ---
